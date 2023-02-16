@@ -8,7 +8,7 @@
     "build": "tsc",
     "build:dev": "tsc -w",
     "start": "node dist",
-    "start:dev": "no dist --watch",
+    "start:dev": "node dist --watch",
     "prepare": "husky install"
   },
   "keywords": [],
