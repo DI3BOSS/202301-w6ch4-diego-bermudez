@@ -2,43 +2,43 @@ import { KnownThings } from "../types";
 
 const knownThings: KnownThings = [
   {
-    id: 1,
+    idThing: 1,
     thing: "Use SASS"
   },
   {
-    id: 2,
+    idThing: 2,
     thing: "Use npm"
   },
   {
-    id: 3,
+    idThing: 3,
     thing: "RTFM"
   },
   {
-    id: 4,
+    idThing: 4,
     thing: "keep calm when git fucks up"
   },
   {
-    id: 5,
+    idThing: 5,
     thing: "create components"
   },
   {
-    id: 6,
+    idThing: 6,
     thing: "what is and Interface"
   },
   {
-    id: 7,
+    idThing: 7,
     thing: "I like dogs, but I don't like Husky"
   },
   {
-    id: 8,
+    idThing: 8,
     thing: "use BEM"
   },
   {
-    id: 9,
+    idThing: 9,
     thing: "Styled components"
   },
   {
-    id: 10,
+    idThing: 10,
     thing: "what's internet"
   }
 ];
